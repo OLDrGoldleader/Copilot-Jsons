@@ -1,33 +1,45 @@
 {"frequencies": [
         {
-            "name": "Magic",
+            "name": "Overlord",
             "frequency": "251.000",
             "modulation": "AM",
             "type": "e3"
         },
         {
             "name": "Guard (CAP)",
-            "frequency": "253.000",
+            "frequency": "133.000",
             "modulation": "AM",
             "type": "capGuard"
         },
         {
             "name": "Guard (Strike)",
-            "frequency": "131.000",
+            "frequency": "235.000",
             "modulation": "AM",
             "type": "casGuard"
         },
         {
             "name": "Stennis",
-            "frequency": "275.500",
+            "frequency": "127.500",
             "modulation": "AM",
             "type": "carrier"
         },
         {
-            "name": "Tarawa",
-            "frequency": "251.000",
+            "name": "Ras al Kaimah",
+            "frequency": "121.600",
             "modulation": "AM",
-            "type": "carrier"
+            "type": "airfield"
+        },
+		{
+            "name": "Al Minhad",
+            "frequency": "121.800",
+            "modulation": "AM",
+            "type": "airfield"
+        },
+        {
+            "name": "Al Dhafra",
+            "frequency": "126.500",
+            "modulation": "AM",
+            "type": "airfield"
         },
         {
             "name": "JTAC SPECTRAL",
@@ -37,39 +49,39 @@
         },
         {
             "name": "Texaco",
-            "frequency": "252.100",
+            "frequency": "230.000",
             "modulation": "AM",
             "type": "tanker"
         },
         {
             "name": "Arco",
-            "frequency": "252.200",
+            "frequency": "240.000",
             "modulation": "AM",
             "type": "tanker"
         },
         {
-            "name": "Nikel",
-            "frequency": "253.100",
+            "name": "Mace",
+            "frequency": "30.000",
+            "modulation": "FM",
+            "type": "flight"
+        },
+        {
+            "name": "SPEAR",
+            "frequency": "233.000",
             "modulation": "AM",
             "type": "flight"
         },
         {
-            "name": "Cat",
-            "frequency": "131.100",
-            "modulation": "AM",
+            "name": "Arrow",
+            "frequency": "133.000",
+            "modulation": "FM",
             "type": "flight"
         },
         {
-            "name": "Ragin",
-            "frequency": "131.200",
-            "modulation": "AM",
-            "type": "flight"
+            "name": "Mace",
+            "frequency": "248.250",
+            "modulation": "FM",
+            "type": "fac"
         },
-        {
-            "name": "Devil",
-            "frequency": "131.300",
-            "modulation": "AM",
-            "type": "flight"
-        }
 ]
 }
