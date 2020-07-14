@@ -78,10 +78,10 @@
             "type": "flight"
         },
         {
-            "name": "Mace",
+            "name": "CSAR",
             "frequency": "248.250",
             "modulation": "FM",
-            "type": "fac"
+            "type": "flight"
         },
 ]
 }
