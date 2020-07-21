@@ -16,14 +16,14 @@
         {
             "name": "Top of Hill",
             "latitude": "N41408",
-            "longitude": "E414859",
+            "longitude": "E0414859",
             "elevation": "621",
             "type": "WP"
         },
         {
             "name": "Senaki Hill",
             "latitude": "N4217817",
-            "longitude": "E4204357",
+            "longitude": "E04204357",
             "elevation": "1483",
             "type": "WP"
         }
