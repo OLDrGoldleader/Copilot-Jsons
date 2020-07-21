@@ -2,7 +2,7 @@
         {
             "name": "X Airfield",
             "latitude": "N415031",
-            "longitude": "E0414752",
+            "longitude": "E414752",
             "elevation": "10",
             "type": "WP"
         },
@@ -23,7 +23,7 @@
         {
             "name": "Senaki Hill",
             "latitude": "N4217817",
-            "longitude": "E04204357",
+            "longitude": "E4204357",
             "elevation": "1483",
             "type": "WP"
         }
