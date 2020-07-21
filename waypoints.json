@@ -8,8 +8,8 @@
         },
         {
             "name": "North of X",
-            "latitude": "N4203.317",
-            "longitude": "E4146.250",
+            "latitude": "N4203317",
+            "longitude": "E4146250",
             "elevation": "5",
             "type": "WP"
         },
@@ -22,8 +22,8 @@
         }
         {
             "name": "Senaki Hill",
-            "latitude": "N4217.817",
-            "longitude": "E04204.357",
+            "latitude": "N4217817",
+            "longitude": "E04204357",
             "elevation": "1483",
             "type": "WP"
         }
