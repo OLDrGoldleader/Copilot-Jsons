@@ -1,0 +1,150 @@
+{"waypoints": [
+        {
+            "name": "Refinery T1",
+            "latitude": "N2632725",
+            "longitude": "E05452177",
+            "elevation": "37",
+            "type": "WP"
+        },
+        {
+            "name": "Refinery T2",
+            "latitude": "N2632708",
+            "longitude": "E05452149",
+            "elevation": "38",
+            "type": "WP"
+        },
+        {
+            "name": "Refinery T3",
+            "latitude": "N2632652",
+            "longitude": "E05252060",
+            "elevation": "40",
+            "type": "WP"
+        },
+        {
+            "name": "Refinery T4",
+            "latitude": "N2632613",
+            "longitude": "E05452030",
+            "elevation": "39",
+            "type": "WP"
+        },
+       {
+            "name": "BLAB S TNK 1",
+            "latitude": "N2631787",
+            "longitude": "E05449519",
+            "elevation": "76",
+            "type": "WP"
+        },
+       {
+            "name": "BLAB S TNK 2",
+            "latitude": "N2631791",
+            "longitude": "E05449535",
+            "elevation": "76",
+            "type": "WP"
+        },
+       {
+            "name": "BLAB S TNK 3",
+            "latitude": "N2631793",
+            "longitude": "E05449545",
+            "elevation": "76",
+            "type": "WP"
+        },
+       {
+            "name": "BLAB S TNK 4",
+            "latitude": "N2631800",
+            "longitude": "E05449593",
+            "elevation": "75",
+            "type": "WP"
+        },
+       {
+            "name": "BLAB S TNK 5",
+            "latitude": "N2631799",
+            "longitude": "E05449618",
+            "elevation": "75",
+            "type": "WP"
+        },
+		{
+            "name": "BLAB W TNK 1",
+            "latitude": "N2631863",
+            "longitude": "E05449631",
+            "elevation": "75",
+            "type": "WP"
+        },
+       {
+            "name": "BLAB W TNK 2",
+            "latitude": "N2631858",
+            "longitude": "E05449632",
+            "elevation": "75",
+            "type": "WP"
+        },
+		{
+            "name": "BLAB W TNK 3",
+            "latitude": "N2631854",
+            "longitude": "E05449633",
+            "elevation": "75",
+            "type": "WP"
+        },
+		{
+            "name": "BLAB W TNK 4",
+            "latitude": "N2631844",
+            "longitude": "E5449635",
+            "elevation": "75",
+            "type": "WP"
+        },		
+ 		{
+            "name": "BLAB W TNK 5",
+            "latitude": "N2631837",
+            "longitude": "E05449636",
+            "elevation": "75",
+            "type": "WP"
+        },
+		{
+            "name": "BLAB E TNK 1",
+            "latitude": "N2631879",
+            "longitude": "E05449768",
+            "elevation": "76",
+            "type": "WP"
+        },
+		{
+            "name": "BLAB E TNK 2",
+            "latitude": "N2631857",
+            "longitude": "E05449772",
+            "elevation": "76",
+            "type": "WP"
+        },
+		{
+            "name": "BLAB E TNK 3",
+            "latitude": "N2631846",
+            "longitude": "E05449774",
+            "elevation": "76",
+            "type": "WP"
+        },
+		{
+            "name": "HANGAR",
+            "latitude": "N2631786",
+            "longitude": "E05449738",
+            "elevation": "75",
+            "type": "WP"
+        },
+		{
+            "name": "BLAB RWY E",
+            "latitude": "N2632043",
+            "longitude": "E05450200",
+            "elevation": "80",
+            "type": "WP"
+        },
+		{
+            "name": "BLAB RWY C",
+            "latitude": "N2631963",
+            "longitude": "E054449670",
+            "elevation": "75",
+            "type": "WP"
+        },
+		{
+            "name": "BLAB RWY W",
+            "latitude": "N2631832",
+            "longitude": "E05448775",
+            "elevation": "81",
+            "type": "WP"
+        }
+ ]
+}
