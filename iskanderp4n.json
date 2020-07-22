@@ -1,8 +1,8 @@
 {"waypoints": [
         {
             "name": "Refinery T1",
-            "latitude": "N2632725",
-            "longitude": "E05452177",
+            "latitude": "N2632.725",
+            "longitude": "E05452.177",
             "elevation": "37",
             "type": "WP"
         },
