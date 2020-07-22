@@ -8,141 +8,141 @@
         },
         {
             "name": "Refinery T2",
-            "latitude": "N2632708",
-            "longitude": "E05452149",
+            "latitude": "N2632.708",
+            "longitude": "E05452.149",
             "elevation": "38",
             "type": "WP"
         },
         {
             "name": "Refinery T3",
-            "latitude": "N2632652",
-            "longitude": "E05252060",
+            "latitude": "N2632.652",
+            "longitude": "E05252.060",
             "elevation": "40",
             "type": "WP"
         },
         {
             "name": "Refinery T4",
-            "latitude": "N2632613",
-            "longitude": "E05452030",
+            "latitude": "N2632.613",
+            "longitude": "E05452.030",
             "elevation": "39",
             "type": "WP"
         },
        {
             "name": "BLAB S TNK 1",
-            "latitude": "N2631787",
-            "longitude": "E05449519",
+            "latitude": "N2631.787",
+            "longitude": "E05449.519",
             "elevation": "76",
             "type": "WP"
         },
        {
             "name": "BLAB S TNK 2",
-            "latitude": "N2631791",
-            "longitude": "E05449535",
+            "latitude": "N2631.791",
+            "longitude": "E05449.535",
             "elevation": "76",
             "type": "WP"
         },
        {
             "name": "BLAB S TNK 3",
-            "latitude": "N2631793",
-            "longitude": "E05449545",
+            "latitude": "N2631.793",
+            "longitude": "E05449.545",
             "elevation": "76",
             "type": "WP"
         },
        {
             "name": "BLAB S TNK 4",
-            "latitude": "N2631800",
-            "longitude": "E05449593",
+            "latitude": "N2631.800",
+            "longitude": "E05449.593",
             "elevation": "75",
             "type": "WP"
         },
        {
             "name": "BLAB S TNK 5",
-            "latitude": "N2631799",
-            "longitude": "E05449618",
+            "latitude": "N2631.799",
+            "longitude": "E05449.618",
             "elevation": "75",
             "type": "WP"
         },
 		{
             "name": "BLAB W TNK 1",
-            "latitude": "N2631863",
-            "longitude": "E05449631",
+            "latitude": "N2631.863",
+            "longitude": "E05449.631",
             "elevation": "75",
             "type": "WP"
         },
        {
             "name": "BLAB W TNK 2",
-            "latitude": "N2631858",
-            "longitude": "E05449632",
+            "latitude": "N2631.858",
+            "longitude": "E05449.632",
             "elevation": "75",
             "type": "WP"
         },
 		{
             "name": "BLAB W TNK 3",
-            "latitude": "N2631854",
-            "longitude": "E05449633",
+            "latitude": "N2631.854",
+            "longitude": "E05449.633",
             "elevation": "75",
             "type": "WP"
         },
 		{
             "name": "BLAB W TNK 4",
-            "latitude": "N2631844",
-            "longitude": "E5449635",
+            "latitude": "N2631.844",
+            "longitude": "E5449.635",
             "elevation": "75",
             "type": "WP"
         },		
  		{
             "name": "BLAB W TNK 5",
-            "latitude": "N2631837",
-            "longitude": "E05449636",
+            "latitude": "N2631.837",
+            "longitude": "E05449.636",
             "elevation": "75",
             "type": "WP"
         },
 		{
             "name": "BLAB E TNK 1",
-            "latitude": "N2631879",
-            "longitude": "E05449768",
+            "latitude": "N2631.879",
+            "longitude": "E05449.768",
             "elevation": "76",
             "type": "WP"
         },
 		{
             "name": "BLAB E TNK 2",
-            "latitude": "N2631857",
-            "longitude": "E05449772",
+            "latitude": "N2631.857",
+            "longitude": "E05449.772",
             "elevation": "76",
             "type": "WP"
         },
 		{
             "name": "BLAB E TNK 3",
-            "latitude": "N2631846",
-            "longitude": "E05449774",
+            "latitude": "N2631.846",
+            "longitude": "E05449.774",
             "elevation": "76",
             "type": "WP"
         },
 		{
             "name": "HANGAR",
-            "latitude": "N2631786",
-            "longitude": "E05449738",
+            "latitude": "N2631.786",
+            "longitude": "E05449.738",
             "elevation": "75",
             "type": "WP"
         },
 		{
             "name": "BLAB RWY E",
-            "latitude": "N2632043",
-            "longitude": "E05450200",
+            "latitude": "N2632.043",
+            "longitude": "E05450.200",
             "elevation": "80",
             "type": "WP"
         },
 		{
             "name": "BLAB RWY C",
-            "latitude": "N2631963",
-            "longitude": "E054449670",
+            "latitude": "N2631.963",
+            "longitude": "E054449.670",
             "elevation": "75",
             "type": "WP"
         },
 		{
             "name": "BLAB RWY W",
-            "latitude": "N2631832",
-            "longitude": "E05448775",
+            "latitude": "N2631.832",
+            "longitude": "E05448.775",
             "elevation": "81",
             "type": "WP"
         }
